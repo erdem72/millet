@@ -1,3 +1,5 @@
 sqlite: 最初版本(http://www.sqlite.org/src/info/6f3655f79f)
 tcdb: tokyocabinet 1.4.46
 tinycc: tiny c compiler 0.9.24
+gdbm: gdbm-1.8.3
+docs: 技术文档
