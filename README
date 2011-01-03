@@ -3,3 +3,5 @@ tcdb: tokyocabinet 1.4.46
 tinycc: tiny c compiler 0.9.24
 gdbm: gdbm-1.8.3
 docs: ¼¼ÊõÎÄµµ
+fasm: flat assembler 1.69.29
+menuet: menuet os and its applications
